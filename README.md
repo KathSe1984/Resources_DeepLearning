@@ -1,5 +1,5 @@
 # Resources_DeepLearning
-Collection of external information on deep learning *just imported* into my GitHub.
+Collection of external information on deep learning ***just imported*** into my GitHub.
 
 
 ## DeepLearning Primer for Genomics 
